@@ -1,6 +1,14 @@
 # Same Tree
 
-## Video Solution : [Youtube Link](https://www.youtube.com/watch?v=m_oZLz8tk8g)
+<br>
+
+## The Problem: [LeetCode Link](https://leetcode.com/problems/same-tree/)
+
+<br>
+
+## Video Solution: [Youtube Link](https://www.youtube.com/watch?v=m_oZLz8tk8g)
+
+<br>
 
 ## code
 
