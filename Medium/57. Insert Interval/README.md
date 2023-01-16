@@ -1,4 +1,4 @@
-# Lexicographically Smallest Equivalent String
+# Insert Interval
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-## Video Solution: [Youtube Link](https://www.youtube.com/watch?v=qU_MnrYO8sY)
+## Video Solution: [Youtube Link](https://youtu.be/qU_MnrYO8sY)
 
 <br>
 
