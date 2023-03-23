@@ -6,11 +6,11 @@ If you're preparing for a technical interview, the "Blind 75" LeetCode Questions
 
 <br><br>
 
-| Title | Video Explanation | Code | Difficulty | Prerequisites |
+| Title | Video Explanation | Code | Difficulty | Related Topics |
 | :---: | :---------------: | :--: | :--------: | :-----------: |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Not Yet.. | [C++, Java, Python, JS, Dart](/The%20Blind%2075%20LeetCode%20Questions/solutions/1.%20Two%20Sum/)| Easy | Array, Hash Table |
-| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Not Yet.. | [C++, Java, Python, JS, Dart](/The%20Blind%2075%20LeetCode%20Questions/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy | Array |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Not Yet.. | Not Yet.. | Easy |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Not Yet.. | [C++, Java, Python, JS, Dart](/The%20Blind%2075%20LeetCode%20Questions/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy | Array, Dynamic Programming |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Not Yet.. | [C++, Java, Python, JS, Dart](/The%20Blind%2075%20LeetCode%20Questions/solutions/217.%20Contains%20Duplicate/) | Easy | Array, Hash Table, Sorting |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Not Yet.. | Not Yet.. | Medium |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Not Yet.. | Not Yet.. | Medium |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Not Yet.. | Not Yet.. | Medium |
